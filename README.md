@@ -1,7 +1,6 @@
 # crypto-arbitrage
 
-This is a python application using Jupyter. that will calculate for qualified loans based on the data provided by the user. 
-User will have the option to save the qualified loan list into a file.
+This is an application to calculate or evaluate the arbitrage profitability of Bitcoin in different markets.
 
 ---
 
