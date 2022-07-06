@@ -21,10 +21,6 @@ This project uses python 3.9 with the following:
 Use jupyter notebook, to run the code
 
 
-Once launched, you will see the following prompts.
-
-![Loan Qualifier Prompts](images/loan_qualifier_prompts.png)
-
 ---
 
 ## Contributors
